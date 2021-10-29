@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue;
+    padding: 5px;
+}
+
+.alert {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.alert h3{
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
