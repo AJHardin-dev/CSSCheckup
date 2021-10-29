@@ -6,9 +6,21 @@ body {
 .alert {
     background-color: yellow;
     font-weight: bold;
+    border-radius: 2px;
+    border-color: black;
+    padding: 5px;
 }
 
 .alert h3{
     color: red;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+hr {
+    width: 85%;
+}
+
+#message {
+    font-size: large;
+    font-family: cursive;
 }
